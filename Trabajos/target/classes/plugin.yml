@@ -1,0 +1,5 @@
+name: Trabajos
+version: 1.0
+main: local.antropodus.Trabajos
+api-version: 1.20
+commands:

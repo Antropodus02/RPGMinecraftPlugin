@@ -1,0 +1,9 @@
+name: Jump
+version: 1.0
+main: local.antropodus.Jump
+api-version: 1.20
+commands:
+  jump:
+    description: Comando para guardar, ir, borrar o listar coordenadas
+    usage: "/jump \n\t- guardar <nombre> \n\t- ir <nombre> \n\t- borrar <nombre> \n\t- lista <nombre>"
+
