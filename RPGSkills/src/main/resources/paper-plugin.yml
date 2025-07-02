@@ -1,0 +1,6 @@
+name: RPGSkills
+version: '1.0-SNAPSHOT'
+main: local.antropodus.RPGSkills
+api-version: '1.21'
+prefix: rpg
+authors: [ antropodus ]
